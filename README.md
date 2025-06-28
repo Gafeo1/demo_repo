@@ -6,3 +6,5 @@ This is a test repository
 
 text
 text 2
+
+this text is for the test 2 branch
